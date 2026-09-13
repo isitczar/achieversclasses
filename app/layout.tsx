@@ -13,22 +13,7 @@ export const metadata: Metadata = {
   title: 'Achievers Classes | JEE, NEET & Foundation Coaching',
   description:
     'Achievers Classes is an elite coaching institute transforming potential into top ranks. Expert faculty, proven results, and personal mentorship for JEE Main/Advanced, NEET, and Foundation (Class 8–10).',
-  generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
     apple: '/apple-icon.png',
   },
 }
